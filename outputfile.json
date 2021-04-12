@@ -1,0 +1,136 @@
+[{
+    "Hourly_Counts": "300",
+    "ID": "2887628",
+    "sensor": {
+        "Sensor_ID": "34",
+        "Sensor_Name": "Flinders St-Spark La"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "604",
+    "ID": "2887629",
+    "sensor": {
+        "Sensor_ID": "39",
+        "Sensor_Name": "Alfred Place"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "216",
+    "ID": "2887630",
+    "sensor": {
+        "Sensor_ID": "37",
+        "Sensor_Name": "Lygon St (East)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "627",
+    "ID": "2887631",
+    "sensor": {
+        "Sensor_ID": "40",
+        "Sensor_Name": "Lonsdale St-Spring St (West)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "774",
+    "ID": "2887632",
+    "sensor": {
+        "Sensor_ID": "36",
+        "Sensor_Name": "Queen St (West)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "644",
+    "ID": "2887633",
+    "sensor": {
+        "Sensor_ID": "29",
+        "Sensor_Name": "St Kilda Rd-Alexandra Gardens"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "453",
+    "ID": "2887634",
+    "sensor": {
+        "Sensor_ID": "42",
+        "Sensor_Name": "Grattan St-Swanston St (West)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "387",
+    "ID": "2887635",
+    "sensor": {
+        "Sensor_ID": "43",
+        "Sensor_Name": "Monash Rd-Swanston St (West)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+},{
+    "Hourly_Counts": "27",
+    "ID": "2887636",
+    "sensor": {
+        "Sensor_ID": "44",
+        "Sensor_Name": "Tin Alley-Swanston St (West)"
+    },
+    "timeStamp": {
+        "Date_Time": "11/01/2019 05:00:00 PM",
+        "Day": "Friday",
+        "Mdate": "1",
+        "Month": "November",
+        "Time": "17",
+        "Year": "2019"
+    }
+}]
